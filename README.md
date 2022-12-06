@@ -1,4 +1,4 @@
-# Some helpful things I use in engineering practice.
+# Some helpful things I use in practice.
 There are only `C++` implementations right now.
 
 There are usage examples for most of implemented structures. 
