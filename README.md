@@ -25,11 +25,13 @@ There are basic matrix operators such as
 + Substraction
 + Multiplication
 + Taking the inverse matrix
++ Matrix power
 ```C++
 C = A + B; // sum
 C = A - B; // sub
 C = A * B; // mult
 C = A.inv(); // inverse, works only for square invertible matrices
+C = A ^ p; // matrix power, O(p n^3) implementation.
 ```
 
 One can access to the matrix element in the $i$-th row and $j$-th column like that
