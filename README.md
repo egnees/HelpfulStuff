@@ -20,7 +20,7 @@ Matrix<double> M({
   {1, 2, 1.5},
   {0, 0, 1.5},
   {2.3, -13, 0.25}
-  {5, 5, -144, 0}
+  {5, -144, 0}
 });
 ```
 There are basic matrix operators such as 
